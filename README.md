@@ -1,8 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Igor Lokisov
-====================================================================================================================================
-
-Junior Python Developer
------------------------
+### <h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Igor</h1>
+<h2 align="center">Junior Python Developer</h2>
 
 I have a strong background in oil refining as a senior modeling engineer. And now i'm trying my hand at Python development with great help of [Hexlet.io](https://ru.hexlet.io/)😇
 
@@ -27,23 +24,5 @@ I have a strong background in oil refining as a senior modeling engineer. And no
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/MarsBroshok96"><img src="https://github-readme-stats.vercel.app/api?username=MarsBroshok96&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MarsBroshok96's GitHub stats" /></a>
-
-<a href="https://github.com/MarsBroshok96" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarsBroshok96&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<!--
-**MarsBroshok96/MarsBroshok96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marsbroshok96&theme=blue&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marsbroshok96&hide=TeX&layout=compact)
