@@ -1,7 +1,6 @@
 ### <h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Igor</h1>
-<h2 align="center">Junior Python Developer</h2>
 
-I have a strong background in oil refining as a senior modeling engineer. And now i'm trying my hand at Python development with great help of [Hexlet.io](https://ru.hexlet.io/)😇
+I have a strong background in oil refining as a senior modeling engineer. And now i'm trying my hand at Python development
 
 * ✉️  You can contact me at [marsbroshok1996@gmail.com](mailto:marsbroshok1996@gmail.com)
 
